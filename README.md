@@ -4,7 +4,7 @@
 
 Этот проект посвящен решению задачи суммаризации текста, в частности, пересказу диалогов на английском языке. В рамках данного проекта разработан Telegram-бот, который использует предварительно обученные модели для суммаризации текста. Пользователи могут взаимодействовать с ботом, сохранять диалоги и запрашивать их пересказ.
 
-<img src="https://github.com/Sabiaip1/Dialogue-Summarization-Telegram-Bot/raw/main/images/01.png" alt="Иллюстрация к проекту" width="300"/>
+<img src="https://github.com/Sabiaip1/Dialogue-Summarization-Telegram-Bot/raw/main/images/01.png" alt="Иллюстрация к проекту" width="400"/>
 
 ## **Как устроен Telegram-бот**
 
